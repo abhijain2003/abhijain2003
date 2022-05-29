@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijain2003
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web development
-- 💞️ I’m looking to collaborate on open source
+- 🌱 I’m a web development
+- 💞️ I write blogs on web3 and blockchain Read Here: https://web3talks.co/
 - 📫 How to reach me = email✉️ - abhi05042003@outlook.com
 
 <!---
