@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhiwd" target="blank"><img src="https://img.shields.io/twitter/follow/abhiwd?logo=twitter&style=for-the-badge" alt="abhiwd" /></a> </p>
 
-- 🔭 I’m currently working on [complete finance website for helping small business](#)
-
 - 🌱 I’m currently learning **python and ML & data Science topics**
 
 - 👨‍💻 All of my projects are available at [https://abhijain.vercel.app/](https://abhijain.vercel.app/)
-
-- 📝 I create content on Roadmaps and Resources on Different Domains [https://www.instagram.com/abhijain5403/](https://www.instagram.com/abhijain5403/)
 
 - 💬 Ask me about **reactjs, javascript, python, web development**
 
