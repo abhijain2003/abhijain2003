@@ -7,14 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhiwd" target="blank"><img src="https://img.shields.io/twitter/follow/abhiwd?logo=twitter&style=for-the-badge" alt="abhiwd" /></a> </p>
 
-- 🔭 I’m currently working on [as a frontend intern in a Startup](#development)
-
-- 🌱 I’m currently learning **Data analytics**
-
-- 👨‍💻 All of my projects are available at [https://abhijain.vercel.app/](https://abhijain.vercel.app/)
-
-- 📝 I create content on Roadmaps and Resources on Different Domains [https://www.instagram.com/abhijain1705/](https://www.instagram.com/abhijain1705/)
-
 - 💬 Ask me about **reactjs, javascript, python, web development**
 
 - 📫 How to reach me **abhikumarjain05@gmail.com**
