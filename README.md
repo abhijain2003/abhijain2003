@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **abhikumarjain05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13SiLfEaRsrJO2LsrDKGr9bG7JC-oeJ0Z/view?usp=sharing](https://drive.google.com/file/d/13SiLfEaRsrJO2LsrDKGr9bG7JC-oeJ0Z/view?usp=sharing)
-
 - ⚡ Fun fact **I can write javascript without looking at keyboard**
 
 ### Blogs posts
